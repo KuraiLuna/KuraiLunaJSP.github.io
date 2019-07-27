@@ -1,0 +1,19 @@
+#contents{ float: left; width: 100%; height: 200px; 
+margin-top: 200px; padding-top: 20px;}
+#contents_in{ margin: 0 ; margin-left:22%; width: 500px;
+ height: 250px;  border: 2px solid #f1f1f1; }
+.table{ width: 400px; height: 200px; color: #333;}
+.f_ttl{ font-size: 18px; padding:0px;}
+.f_left{ font-size: 15px; width: 100px; text-align: right; padding-right: 15px; font-weight: 600; color: #000;}
+.btn{ padding: 0 15px; height: 23px;  border-radius: 3px; border: 0;}
+.b_btn{ margin-left: 40px; padding: 0 15px; font-size: 18px; width: 200px; height: 50px; background-color: cadetblue; color: #fff; font-weight: 600; border-radius: 5px; border: 0;}
+.findBtn{ display: block; text-align: center; position: absolute;
+ top: 210px; left: 20%; width: 200px; height: 20px; padding: 15px 0;
+  background-color: cadetblue; color: #fff; border-radius: 5px; 
+  font-size: 17px; font-weight: 500; border: 0px;}
+.findBtn2{ display: block; text-align: center; position: absolute;
+ top: 210px; left: 100%; width: 200px; height: 20px; padding: 15px ;
+  background-color: cadetblue; color: #fff; border-radius: 5px; 
+  font-size: 17px; font-weight: 500; border: 0px;}
+  .findTbl{
+  border: 2px solid  black;}

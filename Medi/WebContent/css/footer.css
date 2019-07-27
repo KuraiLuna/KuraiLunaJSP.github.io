@@ -1,0 +1,32 @@
+#footer{
+	float: left;
+	width: 100%;
+	height: 175px;
+	background-color: #f1f1f1;
+}
+#footer_in{
+	float: left;
+	margin-left: 300px;
+	width: 500px;
+	height: 175px;
+	position: relative;
+}
+.ft_mn{
+	float: left;
+	position: relative;
+	left: -20px;
+	margin-top: 40px;
+}
+.ft_mn li{
+	float: left;
+	padding: 0 20px;
+	border-right: 2px solid #333;
+	line-height: 15px;
+}
+.ft_mn li:last-child{ margin-right: 0; border: 0;}
+.ft_mn a{
+	font-size: 15px;
+	font-weight: 600;
+}
+.txt{ float: left; margin-top: 20px;}
+.copyright{ float: left; position: absolute; bottom: 30px; left: 0; margin-top: 40px;}

@@ -1,0 +1,13 @@
+@charset "EUC-KR";
+
+#contents{ margin-top: 100px; float: left; width: 100%;}
+.ttl{ font-size: 22px; font-weight: 600; margin-bottom: 20px;}
+.tbl_main{ padding-top: 100px; margin: 0 auto;}
+.tbl_main2{ padding-top: 30px; margin: 0 auto;}
+.tbl_in{ border: 0;}
+.tr{}
+.th{ padding: 10px; background-color:#f1f1f1; border-top: 2px solid #ccc;border-bottom: 2px solid #ccc;}
+.td{ padding: 10px; border-bottom: 1px solid #ccc;}
+.td_last{ padding-top: 50px;}
+.go_before{ padding:10 20px; background-color: #ccc;}
+.go_home{padding:10 20px; background-color: cadetblue; color: #fff;}

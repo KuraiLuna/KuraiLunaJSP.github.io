@@ -1,0 +1,37 @@
+#header{
+	float: left;
+	width: 100%;
+	height: 100px;
+	background-color:#fff;
+	position: fixed;
+	z-index: 9999;
+}
+#header #logo{
+	float: left;
+	margin-left: 170px;
+	margin-top: 20px;
+}
+.nav{ float: left; margin: 40px 0 0 10px;}
+.nav_mn{ float: left; margin-right: 25px; width: 100px; height: 100px;}
+.nav_mn:last-child{ margin-right: 0;}
+.nav_mn>a{ font-size: 20px; font-weight: 700; color: #ccc;}
+.nav_mn .sub_mn{ float: left; position: absolute; top:94px; left: 0; padding-top:10px; width: 100%; height: 45px; border-top: 2px solid #f1f1f1; border-bottom: 2px solid #f1f1f1; background-color: #fff;}
+.sub_mn li{ float: left; margin-right: 40px; width: 80px; height: 20px; padding: 10px 5px;}
+.sub_mn li:hover{ border-bottom: 2px solid #000;}
+.sub_mn li:first-child{ margin-left: 170px;}
+.sub_mn li:last-child{ margin-right: 0;}
+.sub_mn li a{ font-size: 14px; color: #999; display: block; text-align: center; font-weight: 600;}
+.sub_mn li a:hover{ color: #000;}
+
+.info_mn{ float: right; margin:30px 120px 0 0; width: 530px; height: 43px;}
+.search{ float: left; margin-right: 20px; width: 260px; height: 40px; border: 1px solid #999; border-radius: 5px; position: relative;}
+.search .info_search{ position: absolute; top: 7px; left: 40px; width: 200px; height: 25px; border: 0;}
+.search .search_img{ margin: 10px 0 0 10px;}
+.info_mn .info_w{ float: left; margin:5px 20px 0 0;}
+.info_mn .info_c{ float: left; margin:5px 20px 0 0;}
+
+.login{ margin-top: 10px;}
+.login li{ float: left; padding-right: 15px; border-right: 1px solid #999; margin-right: 15px;}
+.login li:last-child{ padding-right: 0; border: 0; margin-right: 0;}
+.login a{ font-size: 15px; color: #999; font-weight: 700;}
+ 

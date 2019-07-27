@@ -1,0 +1,14 @@
+@charset "EUC-KR";
+
+#pro_con{ float: left; margin-top: 130px; width: 100%;}
+#main_tbl{ margin: 0 auto; width: 700px; border: 1px solid #ccc; margin-bottom: 100px;}
+
+#in_tbl{ width:700px; height: 550px;}
+#in_tbl2{ width:700px; height: 700px;}
+.bg{ background-color: #f1f1f1;}
+.ttl{ text-align: center; font-size: 17px; font-weight: 600;}
+.td_l{ text-align: center; font-size: 15px; font-weight: 600; padding: 0 20px;}
+.td_r{ padding-left: 20px; font-size: 12px;}
+.input_tag{ padding: 5px;}
+#p_insert{ padding: 10px 20px; background-color: cadetblue; border: 0px; color: #fff; font-size: 15px;}
+#p_reset{ padding: 10px 20px; background-color: #666; border: 0px; color: #fff; font-size: 15px;}

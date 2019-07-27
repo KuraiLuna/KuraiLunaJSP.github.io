@@ -1,0 +1,31 @@
+@charset "EUC-KR";
+
+#contents{ margin-top: 100px; float: left; width: 100%; }
+.tbl_main{ padding-top:30px; margin: 0 auto;}
+.tbl_in{}
+.ttl{ margin-bottom: 20px;}
+.td_l1{ padding:10px; background-color:#f1f1f1; border-bottom: 1px solid #ccc;border-top: 2px solid #ccc;}
+.td1{ border-bottom: 1px solid #ccc;border-top: 2px solid #ccc;}
+.td_l{ padding:10px; background-color:#f1f1f1; border-bottom: 1px solid #ccc;}
+.td{ border-bottom: 1px solid #ccc;}
+
+.td_l2{ padding:10px; background-color:#f1f1f1; border-bottom: 2px solid #ccc;}
+.td2{ border-bottom: 2px solid #ccc;}
+
+.update_btn{ 
+	width: 100px; 
+	height: 30px; 
+	margin-top: 30px; 
+	background-color: 
+	cadetblue; 
+	border: 0;
+	color: #fff;
+}
+.delete_btn{ 
+	width: 100px;
+	 height: 30px; 
+	 margin-top: 20px; 
+	 background-color: #333; 
+	 border: 0;
+	 color: #fff;
+	 }

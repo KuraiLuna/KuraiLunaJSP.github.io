@@ -1,0 +1,6 @@
+#contents{ float: left; margin-top: 100px; width: 100%; height: 500px;}
+#contents_in{ margin: 0 auto; width: 500px; height: 500px; position: relative;}
+.logo{ position: absolute; top: 50px; left: 40%;}
+.ttl{ position: absolute; top: 150px; left: 23%;}
+.txt{ font-size: 14px; text-align: center; width:100%; height:100px; position: relative; top: 250px;}
+.go_login{ display: block; text-align: center; position: absolute; top: 350px; left: 25%; width: 250px; height: 20px; padding: 15px 0; background-color: cadetblue; color: #fff; border-radius: 5px; font-size: 17px; font-weight: 500; border: 0px;}

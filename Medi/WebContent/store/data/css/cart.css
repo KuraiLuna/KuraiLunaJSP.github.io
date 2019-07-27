@@ -1,0 +1,155 @@
+#container {
+    width: 100%;
+    float: left;
+    margin-top: 100px;
+    height: auto;
+        margin-bottom: 100px;
+}
+
+#cart_page {
+    width: 900px;
+    margin: auto;
+}
+
+#cart_list {
+    width: 750px;
+    margin: auto;
+    border-bottom:1px solid #ccc;
+
+}
+#cart_sum {
+    width: 750px;
+}
+#total_sum_area {
+    width: 750px;
+    height: 110px;
+    background-color: #EAEAEA;
+    margin: auto;
+    margin-top: 60px;
+    font-size: 15px;
+}
+#item_sum {
+    width: 750px;
+    margin-top: 120px;
+    height: 20px;
+}
+#item_content {
+    margin-left: 280px;
+    margin-top: 60px;
+}
+
+
+.cart_title {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 20px;
+    border-bottom:1px solid #ccc;
+    width: 750px;
+    height: 50px;
+}
+#cart_nolist{
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
+	margin-top:100px;
+}
+#cart_nolist p{
+	text-align:center;
+	font-size: 15px;
+}
+.close_btn {
+    float:right;
+    font-size: 20px;
+	font-weight: 600;
+	position: relative;
+	top: -50px;
+	background-color: #fff;
+	border: 0;
+}
+.item_price_area {
+    float: left;
+    width: 500px;
+    margin-top: 20px;
+    font-size: 15px;
+    
+}
+.item_sum_area {
+    float: left;
+    width: 250px;
+    text-align: right;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.total_item_price {
+    width: 500px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 12px;
+    
+}
+.total_item_price_area {
+    float: left;
+    width: 200px;
+    text-align: right;
+    
+    margin-top: 12px;
+}
+.selec {
+}
+.image_area {
+    margin-top: 10px;
+    position: relative;
+    top:-20px;
+
+}
+.item_title {
+    font-size: 17px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+}
+.item_detail {
+    font-size: 12px;
+    color: darkgrey;
+    display: block;
+    margin-bottom: 10px;
+}
+.order_btn {
+    background-color:cadetblue; 
+    width: 200px;
+    height: 30px;
+    margin: auto;
+    margin-top: 50px;
+    color: white;
+    font-size:14px;
+    text-align: center;
+    padding-top: 14px;
+    display: block;
+}
+.item_count { 
+}
+.item_price {
+	color: darkgoldenrod;
+    font-size: 20px;
+    font-weight:700;
+}
+
+
+/*체크박스*/
+
+.container {
+    display: block;
+    position: absolute;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}

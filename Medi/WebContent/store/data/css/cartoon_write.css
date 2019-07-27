@@ -1,0 +1,32 @@
+#contents{
+	width:100%;
+	height:500px;
+	padding-bottom:100px;
+}
+#cartoonbox{
+	margin-left:50px;
+	margin-bottom: 100px;
+}
+#title{
+	width:140px;
+	font-size: 20px;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #333;
+	padding-bottom: 5px;
+}
+#txtarea{
+	margin-bottom: 20px;
+}
+#uploadBtn {  
+  opacity: 0;       /*input type="file" tag �����ϰ� ó��*/
+  position: relative;
+}
+.replace {    /*button tag �� ���ϴ� ��Ÿ�� ����*/
+  border-radius: 5px;
+  width:100px;
+  height:23px;
+  color:white;
+  cursor: pointer;
+  background-color: #333;
+  border:0;
+}

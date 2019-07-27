@@ -1,0 +1,69 @@
+#titlebox{
+	margin:0 auto;
+	width: 800px;
+}
+#title{
+	font-size:20px;
+	font-weight:400;
+	margin-bottom: 30px;
+}
+.cartoonbox{
+	float:left;
+	align: center;
+    width:100%; height:auto;
+	margin-top:10%; 
+	margin-bottom: 0%;
+}
+.cartoontbl{
+	width:40%; height:50%; border:2px solid #999;
+	border-radius: 1%;
+}
+
+.idbox{
+padding:10px;
+}
+#deleteBtn{
+align:right; margin-top: 10px; margin-bottom:10px; width: 60px; height: 20px;
+ background-color: cadetblue; color: #fff; border-radius: 5px;
+  font-size: 10px; font-weight: 600; border: 0px;
+}
+
+.cartoonimg{
+	width:100%; height:auto; 
+}
+.reply{
+	margin-left:1%;
+	margin-rigth:1%;
+	width: 85%;
+	height: 30px;
+	border:2px solid #999;
+}
+.replyBtn{	
+	margin-top: 10px;margin-bottom:10px;
+	 width: 50px; height: 28px;
+	 background-color: cadetblue; color: #fff;
+	  border-radius: 5px; font-size: 17px; 
+	  font-weight: 600; border: 0px;
+	  
+}
+#likeimg{
+	maring-top:10px;
+}
+#likefont{
+	margin-top:0px;
+	pading-top:0px;
+	pading-bottom:10px;
+	font-size:15px;
+}
+#likecount{
+	margin-top:0px;
+	pading-top:0px;
+	pading-bottom:10px;
+	font-size:15px;
+	color: red;
+}
+#rimg{
+	width: 10px; heigth:10px;
+}
+	
+

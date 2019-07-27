@@ -1,0 +1,48 @@
+#container {
+    width: 100%;
+    float: left;
+    margin-top: 100px;
+    height: auto;
+}
+
+#list {
+    margin: 0 auto;
+    width: 800px;
+    height: 800px;
+    position: relative;
+}
+.list_ttl{ margin-top:50px; font-size:20px; font-weight: 600; color:#000; margin-bottom: 10px;}
+
+.product_ul {
+    list-style: none;
+    float: left;
+    width: 860px;
+    height: 800px;
+    margin-top: 50px;
+    position: relative;
+    left: -15px;
+    padding: 0px;
+}
+
+.product_ul li {
+	float: left;
+	width:245px;
+	height:310px;
+	padding: 20px 15px;
+	overflow: hidden;
+}
+
+
+.p_name {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+.p_price {
+    margin-bottom: 20px;
+    color: darkgoldenrod;
+    font-size: 17px;
+    font-weight: 700;
+}
